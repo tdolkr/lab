@@ -1,3 +1,3 @@
 #Hello 
 
-This is a Quiz website
+This is a Quiz website. It has random questions
